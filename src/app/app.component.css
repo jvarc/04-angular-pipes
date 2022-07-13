@@ -1,0 +1,12 @@
+
+html, body {
+  /* utiliza el fon-family y color de fondo que esta en el root del tema */
+  font-family: var(--font-family);
+  /*background-color: var(--surface-b);*/
+
+  margin: 10px;
+}
+
+.text.layout {
+  color: var(--text-color);
+}
